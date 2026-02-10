@@ -1,0 +1,7 @@
+# Week 2 in Professional Software Projects
+
+This week, we decided on our team name. Our name is "SHU-baru".
+
+We all worked on the recipe book to familiarise our self with github. The recipe book that we all worked on this week: https://github.com/Alex-Le-Page/team-recipe-book.git
+
+As we analysed the clients requirements for this project which we got from asking our clients questions and reading the brief, helped us outline some MSCW points. Some of out points include: Functional AI Race Bot, Race Engineer Chatbot, and Procedural commentary, each in different MSCW levels.
