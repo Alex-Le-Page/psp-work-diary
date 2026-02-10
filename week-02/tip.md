@@ -1,7 +1,9 @@
-# Tips for this week
+# Week 2 in Professional Software Projects
 
-Provide evidence that your team has completed the Git/Github Recipes lab.
+This week, we decided on our team name. Our name is "SHU-baru".
 
-Comment on your growing understanding of the client's requirements.  This may include a draft MoSCoW analysis.  Outline tools set up to help the team work together.
+We all worked on the recipe book to familiarise our self with github. The recipe book that we all worked on this week: https://github.com/Alex-Le-Page/team-recipe-book.git
+
+As we analysed the clients requirements for this project which we got from asking our clients questions and reading the brief, helped us outline some MSCW points. Some of out points include: Functional AI Race Bot, Race Engineer Chatbot, and Procedural commentary, each in different MSCW levels.
 
 Create a retrospective entry for week one and and `read.md` file. 
